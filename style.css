@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 10px;
+    background-color: grey;
+}
+
+img{
+    width: 3%;
+    border-radius: 5px;
+}
+#home{
+    margin-left: 450px;
+}
+.x{
+    display:inline;
+}
+form{
+    position: relative;
+    display: inline;
+    
+}
+input{
+    margin-left: 20px;
+    margin-top: 0;
+    width: 350px;
+    height: 35px;
+    position: absolute;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+}
+
+
